@@ -1,0 +1,1 @@
+python -m streamlit run Q0_st_main.py
